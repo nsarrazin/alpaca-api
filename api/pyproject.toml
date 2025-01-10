@@ -43,7 +43,7 @@ python-jose = {extras = ["cryptography"], version = "^3.3.0"}
 aiofiles = "^24.1.0"
 python-multipart = "^0.0.20"
 debugpy = "^1.8.11"
-sqlalchemy = "^2.0.36"
+sqlalchemy = "^2.0.37"
 [tool.ruff]
 # Enable pycodestyle (`E`) and Pyflakes (`F`) codes by default.
 select = ["E", "F"]
