@@ -42,7 +42,7 @@ pyjwt = "^2.10.1"
 python-jose = {extras = ["cryptography"], version = "^3.3.0"}
 aiofiles = "^24.1.0"
 python-multipart = "^0.0.20"
-debugpy = "^1.8.11"
+debugpy = "^1.8.12"
 sqlalchemy = "^2.0.36"
 [tool.ruff]
 # Enable pycodestyle (`E`) and Pyflakes (`F`) codes by default.
