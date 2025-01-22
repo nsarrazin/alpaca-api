@@ -39,7 +39,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@iconify/svelte": "^4.0.2",
+    "@iconify/svelte": "^4.2.0",
     "@sveltestack/svelte-query": "^1.6.0",
     "clipboard": "^2.0.11",
     "daisyui": "^4.12.22",
