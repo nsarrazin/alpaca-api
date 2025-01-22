@@ -43,7 +43,7 @@
     "@sveltestack/svelte-query": "^1.6.0",
     "clipboard": "^2.0.11",
     "daisyui": "^4.12.22",
-    "highlight.js": "^11.11.0",
+    "highlight.js": "^11.11.1",
     "ioredis": "^5.4.2",
     "markdown-it": "^14.1.0",
     "markdown-it-highlightjs": "^4.2.0",
